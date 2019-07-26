@@ -1,0 +1,36 @@
+h1 {
+    font-family: 'Kaushan Script', cursive;
+    color: #7d1b7d;
+}
+
+img {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+
+  .btn.btn-primary {
+    color: #ffffff;
+    background-color: #7d1b7d;
+    background-image: linear-gradient(to bottom, #7d1b7d, #7d1b7d);
+    border-color: #7d1b7d #7d1b7d #7d1b7d;
+}
+.btn.btn-primary:hover {
+    color: #ffffff;
+    background-color: #7d1b7d;
+    background-image: linear-gradient(to bottom, #7d1b7d, #7d1b7d);
+    border-color: #7d1b7d #7d1b7d #7d1b7d;
+}
+
+a:link {
+    color: black;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #7d1b7d;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #7d1b7d;
+  }
